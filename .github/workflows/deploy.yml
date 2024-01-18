@@ -19,6 +19,6 @@ jobs:
         -v ${{ github.workspace }}:/srv/jekyll
         -v ${{ github.workspace }}/_site:/srv/jekyll/_site
         jekyll/builder:latest /bin/bash -c
-        "chmod a+w /srv/jekyll/Gemfile.lock && chmod 777 /srv/jekyll && jekyll build --future"
+        "chmod a+w /srv/jekyll/Gemfile.lock ; chmod 777 /srv/jekyll && jekyll build --future"
     - run: >
         rsync -e "ssh -v" -avz _site/ ckanich@super.cs.uchicago.edu:
