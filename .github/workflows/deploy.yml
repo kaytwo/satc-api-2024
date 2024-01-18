@@ -12,8 +12,8 @@ jobs:
       with:
         # this key is restricted to only rsync to the website directory
         ssh-private-key: ${{ secrets.SSH_KEY }}
-    - run: cat ./.github/workflows/known_hosts >> $HOME/.ssh/known_hosts
     - uses: actions/checkout@v2
+    - run: cat .github/workflows/known_hosts >> $HOME/.ssh/known_hosts
     - run: >
         docker run 
         -v ${{ github.workspace }}:/srv/jekyll
