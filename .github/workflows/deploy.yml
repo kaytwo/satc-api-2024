@@ -1,0 +1,24 @@
+name: Publish website
+
+on: 
+  push:
+    branches:
+      - main
+jobs:
+  jekyll:
+    runs-on: ubuntu-22.04
+    steps:
+    - uses: webfactory/ssh-agent@v0.7.0
+      with:
+        # this key is restricted to only rsync to the website directory
+        ssh-private-key: ${{ secrets.SSH_KEY }}
+    - run: cat .github/workflows/known_hosts >> $HOME/.ssh/known_hosts
+    - uses: actions/checkout@v2
+    - run: >
+        docker run 
+        -v ${{ github.workspace }}:/srv/jekyll
+        -v ${{ github.workspace }}/_site:/srv/jekyll/_site
+        jekyll/builder:latest /bin/bash -c
+        "chmod a+w /srv/jekyll/Gemfile.lock && chmod 777 /srv/jekyll && jekyll build --future"
+    - run: >
+        rsync -e "ssh -v" -avz _site/ ckanich@super.cs.uchicago.edu:
