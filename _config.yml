@@ -1,16 +1,24 @@
-title: 2023 NSF SaTC Aspiring PI Workshop
+title: 2024 NSF SaTC Aspiring PI Workshop
 subtitle: Research and Education Day
-icon: /imgs/gw_monogram_wht_rev.png
+icon: /imgs/favicon.svg
+contact: blase@uchicago.edu
+deadline: March 8th, 2024
 #author:
-#  name: 
+#  name:
 #  email: aaviv@gwu.ed
 description: > # this means to ignore newlines until "show_excerpts:"
-  The 2023 NSF SaTC Aspiring PI Workshop is designed to bring together researchers who aspiring to submit funded Secure and Trustworthy Cyberspace (SaTC) proposals to the NSF. The two day event, organized by GW and NYU, will provide aspiring PIs an opportunity to workshop their grant writing skills with mentorship from current PIs and NSF program officers. 
+  The 2024 NSF SaTC Aspiring PI Workshop is designed to
+  bring together researchers who aspiring to submit funded 
+  Secure and Trustworthy Cyberspace (SaTC) proposals to the NSF. 
+  The two day event, organized by a team from UChicago, UIC, and Purdue, 
+  will provide aspiring 
+  PIs an opportunity to workshop their grant writing skills with 
+  mentorship from current PIs and NSF program officers.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 future: true
 
-privpol: https://www.gwu.edu/privacy-notice
+privpol: https://privacy.uchicago.edu/privacy-policy/
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -21,35 +29,35 @@ minima:
 #  social_links:
 #    twitter: jekyllrb
 #    github:  jekyll
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-    # google_scholar_id: qc6CJjYAAAAJ
+# devto: jekyll
+# dribbble: jekyll
+# facebook: jekyll
+# flickr:   jekyll
+# instagram: jekyll
+# linkedin: jekyll
+# pinterest: jekyll
+# youtube: jekyll
+# youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+# youtube_channel_name: CloudCannon
+# telegram: jekyll
+# googleplus: +jekyll
+# microdotblog: jekyll
+# keybase: jekyll
+# google_scholar_id: qc6CJjYAAAAJ
 
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+# Mastodon instances
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
 
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+# GitLab instances
+# gitlab:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -59,10 +67,10 @@ header_pages:
   - travel.md
   - schedule.md
   - part.md
-  
+
 # Build settings
 theme: minima
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag

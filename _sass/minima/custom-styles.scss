@@ -2,7 +2,7 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
 $gw_blue_secondary: #0073aa;
-$gw_blue_primary: #033C5A;
+$gw_blue_primary: #800000;
 $gw_gold_primary: #AA9868;
 $gw_blue_accent: #0190DB;
 $gw_gold_accent: #F9E08E;
@@ -68,10 +68,14 @@ a {
 }
 
 .site-header img {
-    max-height: $spacing-unit * 1.25;
+  max-width: 45px;
     object-fit: contain;
-    float:left;
     padding: $spacing-unit *.25;
+}
+
+.site-header img.purdue {
+  max-height: 40px;
+  max-width: unset;
 }
 
 .site-header table {
