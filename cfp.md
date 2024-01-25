@@ -17,5 +17,11 @@ If invited to the workshop, you will also be asked to prepare a 2-3 page executi
 **If selected, there is significant support for reimbursing costs associated with participating in this workshop, including travel, meals, and other accommodations**.
 
 <div class="reg-link">
-<button>Applications Coming Soon</button>
+{% if site.qualtrics != "" %}
+<button>
+<a href="{{site.qualtrics}}">Apply Here by {{site.deadline}}</a>
+</button>
+{% else %}
+Applications Coming Soon
+{% endif %}
 </div>

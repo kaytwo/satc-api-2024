@@ -6,7 +6,7 @@ $gw_blue_primary: #800000;
 $gw_gold_primary: #AA9868;
 $gw_blue_accent: #0190DB;
 $gw_gold_accent: #F9E08E;
-$gw_hover_buff: #d9d0bb;
+$gw_hover_buff: #d50032;
 $gw_dark_gray: #444444;
 $gw_brown: #a75523;
 
@@ -160,12 +160,20 @@ a {
     margin: $spacing-unit;
 }
 
+.reg-link a:visited {
+  color:#cacaca
+}
+
+.reg-link a{
+  color:#fff
+}
+
 .reg-link button {
     border-radius: 5px;
-    border: 2px solid $gw_blue_secondary;
+    border: 2px solid $gw_blue_primary;
     width: calc(#{$content-width}/5);
     color: white; //$gw_gold_accent;
-    background-color: $gw_blue_secondary;
+    background-color: $gw_blue_primary;
     font-size: $base-font-size;
     font-weight: $base-font-weight;
     padding: .375rem .75rem;

@@ -26,36 +26,40 @@ The purpose of this workshop is to provide individuals who have never received a
 See the [Call For Participants](/cfp) for more details on participation. Importantly, if selected to participate most (if not all) **travel expenses to Chicago will be reimbursed.**
 
 <div class="reg-link">
-<button>Applications Coming Soon</button>
+{% if site.qualtrics != "" %}
+<button>
+<a href="{{site.qualtrics}}">Apply Here by {{site.deadline}}</a>
+</button>
+{% else %}
+Applications Coming Soon
+{% endif %}
 </div>
 
-## Schedule in Brief
+## Tentative Schedule
 
-See the [Full Schedule](schedule.html).
+|       | Day 1                                                                                                                        |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 8:30  | Arrival, breakfast, and registration                                                                                         |
+| 9:15  | Opening remarks: Co-organizers and NSF staff welcome attendees and summarize the funding process                             |
+| 9:45  | Introductions and icebreakers                                                                                                |
+| 10:45 | Break; coffee and light snacks will be provided                                                                              |
+| 11:00 | Interactive activity on developing a research project: Facilitators will assist Aspiring PIs with drafting project summaries |
+| 12:15 | Lunch and rotating one-on-one meetings with mentors, including experienced PIs, NSF staff, and workshop organizers           |
+| 2:15  | Panel on the review process presented by NSF program officers                                                                |
+| 3:45  | Break; coffee and light snacks will be provided                                                                              |
+| 4:15  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF staff for targeted feedback                      |
+| 6:00  | Closing remarks and one-on-one outbriefs                                                                                     |
+| 6:30  | Dinner (Nella Pizzeria) and professional networking                                                                          |
 
-|         | Thursday, May 9                                      |
-| ------- | ---------------------------------------------------- |
-| 8:30am  | Arrival/Registration/Breakfast                       |
-| 9:45am  | Opening Remarks by NSF PMs and Organizers            |
-| 10:15am | Introductions of Participants and Ice breakers       |
-| 10:45am | Coffee Break                                         |
-| 11:00am | Panel 1 (Topic: Research Project Development)        |
-| 12:15pm | (Working Lunch w/NSF and Mentor one-on-one meetings) |
-| 2:15pm  | Panel 2 (Topic: Panel Review Process)                |
-| 3:45pm  | Coffee Break                                         |
-| 4:15pm  | BOF Sessions                                         |
-| 6:00pm  | Closing Remarks                                      |
-| 6:30pm  | Buffet Dinner and Networking                         |
-| 8:30pm  | Adjourn                                              |
-
-|         | Friday, May 10                  |
-| ------- | ------------------------------- |
-| 8:00am  | Arrival/Breakfast               |
-| 8:30am  | Opening Remarks                 |
-| 9:00am  | Mock Panels 1                   |
-| 10:30am | Coffee Break                    |
-| 11:00am | Mock Panels 2                   |
-| 12:30pm | Final Remarks/Box Lunches to-go |
+|         | Day 2                                                                                                            |
+| ------- | ---------------------------------------------------------------------------------------------------------------- |
+| 8:00    | Breakfast                                                                                                        |
+| 8:30    | Panel on proposal-design strategies: Experienced PIs discuss key techniques for assembling competitive proposals |
+| 9:00    | Mock panel (Session 1): Panels discuss aligned proposals                                                         |
+| 10:30   | Break; coffee and light snacks will be provided                                                                  |
+| 11:00   | Mock panel (Session 2): Panels make (simulated) proposal recommendations and explain their reasoning             |
+| 12:30   | Lunch and wrap-up discussions; box lunches will be provided                                                      |
+| ------- | --------------------------------------------------------------------------------------------------------------   |
 
 ## Location
 
