@@ -9,7 +9,7 @@ The goal of this workshop is to provide guidance and feedback for aspiring PIs s
 
 ## Executive Summaries
 
-Participants who have been selected for the workshop are expected to submit a **Executive Summary** of a project proposal by **May 1st, 2024**. The executive summary (ES), should contain the following information and is expected to be 3-5 pages (not including references). Please ensure your proposal meets the [PAPPG](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=papp) standards outlined by then NSF.
+Participants who have been selected for the workshop are expected to submit an **Executive Summary (ES)** of a project proposal by **May 1st, 2024**. Instructions for submission will be provided by email to participants upon their acceptance to the workshop. The ES should contain the following information and is expected to be 3-5 pages (not including references). Please ensure your proposal meets the [PAPPG](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=papp) standards outlined by then NSF.
 
 Your ES should:
 
@@ -33,7 +33,7 @@ By participating in this workshop, we will hold all attendees to a **moral code 
 
 ## Reviewing Proposals
 
-Just like a NSF panel, you will be asked to provide short reviews for up to five others proposals. Your review should include:
+Just like an NSF panel, you will be asked to provide short reviews for up to five others proposals. Your review should include:
 
 1. A summary of the project;
 

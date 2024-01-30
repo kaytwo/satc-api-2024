@@ -21,7 +21,7 @@ The event will take place on the full day of Thursday, May 9th and conclude at 1
 | 3:45  | Break; coffee and light snacks will be provided                                                                              |
 | 4:15  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF staff for targeted feedback                      |
 | 6:00  | Closing remarks and one-on-one outbriefs                                                                                     |
-| 6:30  | Dinner (Nella Pizzeria) and professional networking                                                                          |
+| 6:30  | Dinner and professional networking                                                                          |
 
 |         | Day 2                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------------- |
