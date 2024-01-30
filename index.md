@@ -41,8 +41,6 @@ Applications Coming Soon
 
 All events will take place at the University of Chicago Department of Computer Science in Crerar Library, 5730 S Ellis Ave, Chicago, IL 60637. Directions are provided [here](https://cs.uchicago.edu/about/visiting-uchicago-cs/).
 
-For travel and hotel, arrangements, please refer to [travel details page](/travel).
-
 <!-- building security / access? When you arrive at Crerar Library, proceed up to the second level. There will be a registration table and someone to greet you and direct you to the main event space. -->
 
 ## Organizers
