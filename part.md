@@ -9,7 +9,7 @@ The goal of this workshop is to provide guidance and feedback for aspiring PIs s
 
 ## Executive Summaries
 
-Participants are expected to submit a **Executive Summary** of a project proposal by **May 1st, 2024**. The executive summary (ES), should contain the following information and is expected to be 2-4 pages (not including references). Please ensure your proposal meets the [PAPPG](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=papp) standards outlined by then NSF.
+Participants who have been selected for the workshop are expected to submit a **Executive Summary** of a project proposal by **May 1st, 2024**. The executive summary (ES), should contain the following information and is expected to be 3-5 pages (not including references). Please ensure your proposal meets the [PAPPG](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=papp) standards outlined by then NSF.
 
 Your ES should:
 
@@ -49,7 +49,7 @@ Each review will be roughly one page and will be assigned on May 4th to be compl
 
 ## Panels
 
-Finally, on day 2, May 5th, we will conduct mock panels based on the reviews. The panel will discuss each executive summary and produce a panel summary. The panel summary should include:
+Finally, on the second day of the workshop (May 10th), we will conduct mock panels based on the reviews. The panel will discuss each executive summary and produce a panel summary. The panel summary should include:
 
 1. Summary of the proposal;
 
@@ -63,4 +63,4 @@ Finally, on day 2, May 5th, we will conduct mock panels based on the reviews. Th
 
 6. Ranking of Low Competitive, Competitive, or High Competitive (in comparison to the other proposals reviewed by that panel).
 
-The mock panel will be led by a mentor or NSF program officer. The goal is to both provide feedback to the aspiring PI but also expose aspiring PIs to the review process, a key part of understanding how to write stronger, more competitive proposals.
+The mock panel will be led by an experienced mentor or NSF program officer. The goal is to both provide feedback to the aspiring PI but also expose aspiring PIs to the review process, a key part of understanding how to write stronger, more competitive proposals.
