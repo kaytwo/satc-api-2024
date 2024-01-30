@@ -6,12 +6,14 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: SaTC Aspiring PI Workshop 2023
+title: 2024 NSF SaTC Aspiring PI Workshop
 ---
 
 ## About
 
-The NSF/SaTC Aspiring PI Workshop is a **two-day workshop (May 9-10, 2024)** designed for researchers interested in participating in NSF’s Secure and Trustworthy Cyberspace (SaTC) program. Participation in the workshop is open to those with research interests in all sub-fields of security, privacy, and trustworthy computing who have never been funded by SaTC or any of its predecessor programs (Trustworthy Computing and/or Cyber Trust).
+The [Secure and Trustworthy Cyberspace program (SaTC)](https://new.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc) is the premiere NSF program for supporting research in computer security and privacy. Relatively new principal investigators (PIs), whom we term "aspiring PIs," often find writing their first successful SaTC funding proposal intimidating and difficult. To reduce this barrier, we will be holding the 2024 SaTC Aspiring PI workshop **Thursday-Friday, May 9-10, 2024 in person on the University of Chicago campus in Chicago, IL.** This workshop is open to current and soon-to-be appointed faculty members who qualify for submitting a grant proposal to the NSF SaTC program, including researchers whose past grant submissions to the SaTC program were declined for funding.
+
+Participation in the workshop is by invitation based on applications submitted by interested researchers. To apply, **please submit all application materials by {{site.deadline}} on [this link](https://uchicago.co1.qualtrics.com/jfe/form/SV_6PZRP8m1VVaWbjw)**.
 
 The purpose of this workshop is to provide individuals who have never received a SaTC award with tips and tools for navigating the NSF’s proposal review process, with a focus on SaTC's goals, thereby increasing both the quality of their proposal submissions and, in turn, the number of proposals funded. To that end, this workshop will provide participants with opportunities to meet and network with industry mentors in addition to attend panels and sessions covering topics such as:
 
@@ -23,7 +25,7 @@ The purpose of this workshop is to provide individuals who have never received a
 - Overview of Common Proposal Mistakes
 - …and more!
 
-See the [Call For Participants](/cfp) for more details on participation. Importantly, if selected to participate most (if not all) **travel expenses to Chicago will be reimbursed.**
+See the [Call For Participants](/cfp) for more details on participation. Importantly, we intend to provide travel grants for participants selected for the workshop that should cover most or all of the costs of attendance (travel to Chicago, meals, lodging).
 
 <div class="reg-link">
 {% if site.qualtrics != "" %}
@@ -35,52 +37,22 @@ Applications Coming Soon
 {% endif %}
 </div>
 
-## Tentative Schedule
-
-|       | Day 1                                                                                                                        |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 8:30  | Arrival, breakfast, and registration                                                                                         |
-| 9:15  | Opening remarks: Co-organizers and NSF staff welcome attendees and summarize the funding process                             |
-| 9:45  | Introductions and icebreakers                                                                                                |
-| 10:45 | Break; coffee and light snacks will be provided                                                                              |
-| 11:00 | Interactive activity on developing a research project: Facilitators will assist Aspiring PIs with drafting project summaries |
-| 12:15 | Lunch and rotating one-on-one meetings with mentors, including experienced PIs, NSF staff, and workshop organizers           |
-| 2:15  | Panel on the review process presented by NSF program officers                                                                |
-| 3:45  | Break; coffee and light snacks will be provided                                                                              |
-| 4:15  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF staff for targeted feedback                      |
-| 6:00  | Closing remarks and one-on-one outbriefs                                                                                     |
-| 6:30  | Dinner (Nella Pizzeria) and professional networking                                                                          |
-
-|         | Day 2                                                                                                            |
-| ------- | ---------------------------------------------------------------------------------------------------------------- |
-| 8:00    | Breakfast                                                                                                        |
-| 8:30    | Panel on proposal-design strategies: Experienced PIs discuss key techniques for assembling competitive proposals |
-| 9:00    | Mock panel (Session 1): Panels discuss aligned proposals                                                         |
-| 10:30   | Break; coffee and light snacks will be provided                                                                  |
-| 11:00   | Mock panel (Session 2): Panels make (simulated) proposal recommendations and explain their reasoning             |
-| 12:30   | Lunch and wrap-up discussions; box lunches will be provided                                                      |
-| ------- | --------------------------------------------------------------------------------------------------------------   |
-
 ## Location
 
-All events will take place at the University of Chicago Department of Computer Science in Crerar Library, 5730 S Ellis Ave, Chicago, IL 60637. Directions by metro and driving are provided [here](https://cs.uchicago.edu/about/visiting-uchicago-cs/).
+All events will take place at the University of Chicago Department of Computer Science in Crerar Library, 5730 S Ellis Ave, Chicago, IL 60637. Directions are provided [here](https://cs.uchicago.edu/about/visiting-uchicago-cs/).
 
-When you arrive at Crerar Library, proceed up to the second level. There will be a registration table and someone to greet you and direct you to the main event space.
+For travel and hotel, arrangements, please refer to [travel details page](/travel).
 
-For travel and hotel, arrangements, please refer to [travel details page](/travel) and reach out to <{{site.contact}}> for both booking and reimbursement questions.
+<!-- building security / access? When you arrive at Crerar Library, proceed up to the second level. There will be a registration table and someone to greet you and direct you to the main event space. -->
 
-<!-- building security / access? -->
+## Organizers
 
-## Travel & Accommodations
-
-The workshop will take place entirely at the University of Chicago's CS Department, housed in Crerar Library, 5730 S Ellis Ave, Chicago, IL 60637.
-
-There is significant support available to cover the costs associated with travel (including airfare), meals, hotel accommodations, and transportation to and from the event space to encourage participation. More information on hotel accommodations will be provided in the coming weeks.
+The 2024 NSF SaTC Aspiring PI Workshop is being jointly organized by [Blase Ur (UChicago)](https://www.blaseur.com), [Christina Garman (Purdue)](https://www.cs.purdue.edu/homes/clg/), and [Chris Kanich (UIC)](https://www.cs.uic.edu/~ckanich/).
 
 ## NSF Policy on Harassment and Hate
 
-The National Science Foundation (NSF) will not tolerate sexual harassment, harassment based on ethnicity, race, gender, or disability, other forms of harassment, or sexual assault, within the agency, at awardee organizations, field sites or anywhere science or education is conducted. As a NSF sponsored workshop, we will uphold these values. To find out more about the NSF policies and procedures, please visit their [website](https://www.nsf.gov/od/oecr/harassment.jsp).
+The National Science Foundation (NSF) will not tolerate sexual harassment, harassment based on ethnicity, race, gender, or disability, other forms of harassment, or sexual assault, within the agency, at awardee organizations, field sites or anywhere science or education is conducted. As an NSF-sponsored workshop, we will uphold these values. To find out more about the NSF policies and procedures, please visit their [website](https://www.nsf.gov/od/oecr/harassment.jsp).
 
 ## Contact Us
 
-Please send correspondence to <{{site.contact}}>
+Please send questions about the workshop to <{{site.contact}}>.
