@@ -15,7 +15,7 @@ The [Secure and Trustworthy Cyberspace program (SaTC)](https://new.nsf.gov/fundi
 
 Participation in the workshop is by invitation based on applications submitted by interested researchers. To apply, **please submit all application materials by {{site.deadline}} on [this link](https://uchicago.co1.qualtrics.com/jfe/form/SV_6PZRP8m1VVaWbjw)**.
 
-The purpose of this workshop is to provide individuals who have never received a SaTC award with tips and tools for navigating the NSF’s proposal review process, with a focus on SaTC's goals, thereby increasing both the quality of their proposal submissions and, in turn, the number of proposals funded. To that end, this workshop will provide participants with opportunities to meet and network with industry mentors in addition to attend panels and sessions covering topics such as:
+The purpose of this workshop is to provide individuals who have never received a SaTC award with tips and tools for navigating the NSF’s proposal review process, with a focus on SaTC's goals. We expect that doing so will increase both the quality of their proposal submissions and, in turn, the number of proposals funded. To that end, this workshop will provide participants with opportunities to meet and network with mentors in addition to attending panels and sessions covering topics such as:
 
 - Crafting a Research Proposal Narrative
 - Research Project Development
