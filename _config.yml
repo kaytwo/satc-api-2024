@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   The two day event, organized by a team from UChicago, UIC, and Purdue, 
   will provide aspiring 
   PIs an opportunity to workshop their grant writing skills with 
-  mentorship from current PIs and NSF program officers.
+  mentorship from current PIs.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 future: true
