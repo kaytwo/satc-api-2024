@@ -27,16 +27,6 @@ The purpose of this workshop is to provide individuals who have never received a
 
 See the [Call For Participants](/cfp) for more details on participation. Importantly, we hope to provide travel grants for participants selected for the workshop that should cover most or all of the costs of attendance (travel to Chicago, meals, lodging).
 
-<div class="reg-link">
-{% if site.qualtrics != "" %}
-<button>
-<a href="{{site.qualtrics}}">Apply Here by {{site.deadline}}</a>
-</button>
-{% else %}
-Applications Coming Soon
-{% endif %}
-</div>
-
 ## Location
 
 All events will take place at the University of Chicago Department of Computer Science in Crerar Library, 5730 S Ellis Ave, Chicago, IL 60637. Directions are provided [here](https://cs.uchicago.edu/about/visiting-uchicago-cs/).

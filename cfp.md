@@ -26,12 +26,3 @@ If invited to the workshop, you will be asked to prepare and submit at least one
 
 **We hope to provide travel grants covering most or all of the costs of attending this workshop (travel, meals, lodging) for applicants who are selected to participate**.
 
-<div class="reg-link">
-{% if site.qualtrics != "" %}
-<button>
-<a href="{{site.qualtrics}}">Apply Here by {{site.deadline}}</a>
-</button>
-{% else %}
-Applications Coming Soon
-{% endif %}
-</div>
