@@ -5,7 +5,7 @@ title: CFP
 
 # Call for Participants
 
-The 2024 SaTC Aspiring PI workshop is open to current and soon-to-be appointed faculty members who qualify for submitting a grant proposal to the National Science Foundation  [Secure and Trustworthy Cyberspace (SaTC)](https://new.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc) program. The workshop is planned to be held **Thursday-Friday, May 9-10, 2024 in person on the University of Chicago campus in Chicago, IL.** Participation in the workshop is by invitation based on applications submitted by interested researchers. To apply, **please submit all application materials by {{site.deadline}}; the submission site will be opened in the coming days**.
+The 2024 SaTC Aspiring PI workshop is open to current and soon-to-be appointed faculty members who qualify for submitting a grant proposal to the National Science Foundation  [Secure and Trustworthy Cyberspace (SaTC)](https://new.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc) program. The workshop will be held **Thursday-Friday, May 9-10, 2024 in person on the University of Chicago campus in Chicago, IL.** Participation in the workshop is by invitation based on applications submitted by interested researchers. To apply, **please submit all application materials by {{site.deadline}} on [this link](https://uchicago.co1.qualtrics.com/jfe/form/SV_6PZRP8m1VVaWbjw)**.
 
 In addition to basic information, the application asks applicants to provide supplementary material during the submission in PDF format:
 
@@ -24,5 +24,14 @@ If invited to the workshop, you will be asked to prepare and submit at least one
 
 **Please Note**: Submissions and executive summaries will not be made public, even in the case of accepted participants. These materials are asked by the organizers solely for the purpose of making invitation decisions and to enhance the workshop experience. Decisions will be made subject to availability of space.
 
-**We hope to provide travel grants covering most or all of the costs of attending this workshop (travel, meals, lodging) for applicants who are selected to participate**.
+**We expect to provide travel grants covering most or all of the costs of attending this workshop (travel, meals, lodging) for applicants who are selected to participate**.
 
+<div class="reg-link">
+{% if site.qualtrics != "" %}
+<button>
+<a href="{{site.qualtrics}}">Apply Here by {{site.deadline}}</a>
+</button>
+{% else %}
+Applications Coming Soon
+{% endif %}
+</div>
