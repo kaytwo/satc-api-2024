@@ -25,7 +25,7 @@ The purpose of this workshop is to provide individuals who have never received a
 - Overview of Common Proposal Mistakes
 - …and more!
 
-See the [Call For Participants](/cfp) for more details on participation. Importantly, we intend to provide travel grants for participants selected for the workshop that should cover most or all of the costs of attendance (travel to Chicago, meals, lodging).
+See the [Call For Participants](/cfp.html) for more details on participation. Importantly, we intend to provide travel grants for participants selected for the workshop that should cover most or all of the costs of attendance (travel to Chicago, meals, lodging).
 
 <div class="reg-link">
 {% if site.qualtrics != "" %}
