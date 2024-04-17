@@ -11,17 +11,20 @@ The event will take place on the full day of Thursday, May 9th and conclude at 1
 
 |       | Day 1                                                                                                                        |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 8:30  | Arrival, breakfast, and registration                                                                                         |
+| 8:45  | Arrival, breakfast, and registration                                                                                         |
 | 9:15  | Opening remarks: Co-organizers and NSF staff welcome attendees and summarize the funding process                             |
-| 9:45  | Introductions and icebreakers                                                                                                |
+| 10:00 | Introductions and icebreakers                                                                                                |
 | 10:45 | Break; coffee and light snacks will be provided                                                                              |
 | 11:00 | Interactive activity on developing a research project: Facilitators will assist Aspiring PIs with drafting project summaries |
 | 12:15 | Lunch and rotating one-on-one meetings with mentors, including experienced PIs, NSF staff, and workshop organizers           |
-| 2:15  | Panel on the review process presented by NSF program officers                                                                |
-| 3:45  | Break; coffee and light snacks will be provided                                                                              |
-| 4:15  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF staff for targeted feedback                      |
+| 2:00  | Group meetings in which aspiring PIs meet with experienced PIs and NSF staff about general strategies (Session 1)            |
+| 2:30  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF staff for targeted feedback                      |
+| 3:30  | Break; coffee and light snacks will be provided                                                                              |
+| 4:00  | Panel on the review process presented by NSF program officers                                                                |
+| 5:00  | Group meetings in which aspiring PIs meet with experienced PIs and NSF staff about general strategies (Session 2)            |
+| 5:30  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF staff for targeted feedback                      |
 | 6:00  | Closing remarks and one-on-one outbriefs                                                                                     |
-| 6:30  | Dinner and professional networking                                                                          |
+| 6:30  | Dinner and professional networking                                                                                           |
 
 |         | Day 2                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------------- |
