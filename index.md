@@ -33,7 +33,7 @@ See the [Call For Participants](/cfp.html) for more details on participation. Im
 <a href="{{site.qualtrics}}">Apply Here by {{site.deadline}}</a>
 </button>
 {% else %}
-Applications Coming Soon
+Applications Closed
 {% endif %}
 </div>
 
