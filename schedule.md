@@ -33,7 +33,7 @@ The event will take place on the full day of Thursday, May 9th and conclude at 1
 | 9:00    | Mock panel (Session 1): Panels discuss aligned proposals                                                         |
 | 10:30   | Break; coffee and light snacks will be provided                                                                  |
 | 11:00   | Mock panel (Session 2): Panels make (simulated) proposal recommendations and explain their reasoning             |
-| 12:30   | Lunch and wrap-up discussions; box lunches will be provided                                                      |
+| 12:30   | Lunch and wrap-up discussions; boxed lunches will be provided                                                    |
 | ------- | --------------------------------------------------------------------------------------------------------------   |
 
 <!--
