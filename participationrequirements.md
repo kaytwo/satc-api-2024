@@ -47,6 +47,18 @@ Just like an NSF panel, you will be asked to provide short reviews for other pro
 
 Each review will be roughly one page and will be assigned on the first day of the workshop. Your reviews will be used during the mock panels.
 
+What should you be looking for when reviewing? We will discuss this in more detail during the workshop, but [slide 13 of this presentation](https://www.nsf.gov/bfa/dias/policy/outreach/grantsconf/revisedmrc_oct12.pdf) nicely summarizes the key criteria:
+
+1. What is the potential for the proposed activity to: a. advance knowledge and understanding within its own field or across different fields (Intellectual Merit); and b. benefit society or advance desired societal outcomes (Broader Impacts)?
+
+2. To what extent do the proposed activities suggest and explore creative, original, or potentially transformative concepts?
+
+3. Is the plan for carrying out the proposed activities well-reasoned, wellorganized, and based on a sound rationale? Does the plan incorporate a mechanism to assess success?
+
+4. How well qualified is the individual, team, or institution to conduct the proposed activities?
+
+5. Are there adequate resources available to the PI (either at the home institution or through collaborations) to carry out the proposed activities?
+
 ## Panels
 
 Finally, on the second day of the workshop (May 10th), we will conduct mock panels based on the reviews. The panel will discuss each executive summary and produce a panel summary. The panel summary should include:
