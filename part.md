@@ -3,37 +3,37 @@ layout: default
 title: Participation
 ---
 
-# Participation Expectations for Aspiring PIs
+# Participation Requirements for Aspiring PIs
 
-The goal of this workshop is to provide guidance and feedback for aspiring PIs seeking NSF SaTC funding. To meet these goals, we ask that participants in the workshop engage in a proposal feedback activity that will include both producing a short-form, executive summary of a proposal, and also provide feedback to others executive summaries of the proposals, as part of a mock panel process.
+The goal of this workshop is to provide guidance and feedback for aspiring PIs seeking NSF SaTC funding. To meet these goals, we ask that participants in the workshop engage in a proposal feedback activity that will include both (i) producing a short-form summary of a proposal they hope to submit to SaTC and (ii) providing feedback to other aspiring PIs' proposal summaries as part of a mock panel process.
 
-## Executive Summaries
+## Proposal Summaries
 
-Participants who have been selected for the workshop are expected to submit an **Executive Summary (ES)** of a project proposal by **May 1st, 2024**. Instructions for submission will be provided by email to participants upon their acceptance to the workshop. The ES should contain the following information and is expected to be 3-5 pages (not including references). Please ensure your proposal meets the [PAPPG](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=papp) standards outlined by then NSF.
+Participants who have been selected for the workshop must submit a **Proposal Sketch (PS)** of a project proposal by **Tuesday, May 7th, 2024 (AoE)**. This is intended to be a shorter, more preliminary version of the idea for a future SaTC proposal. Instructions for uploading the PS to UChicago Box have been provided by email to accepted participants on April 26th, 2024.
 
-Your ES should:
+The PS must contain the following information and is expected to be **3-5 pages long** (not including references). Please ensure your proposal meets the relevant parts of [NSF 24-1 PAPPG](https://new.nsf.gov/policies/pappg/24-1), which are the standards outlined by NSF for proposal submissions.
 
-1. Have a title meeting the [SaTC](https://beta.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc) title standers (e.g., "SaTC: CORE: Small:..." or "SaTC: EDU:...");
+Your PS must:
 
-2. Include a section entitled "Intellectual Merit" where you discuss the intellectual merit of the research;
+1. Have a proposal title meeting the [NSF 24-504 (SaTC)](https://new.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc/nsf24-504/solicitation) title requirements (e.g., "SaTC: CORE: Small:..." or "SaTC: EDU:...").
 
-3. Include a section entitled "Broader Impact" where you discuss the broader impact of the project;
+2. Start your PS with a one-page "project summary," as [described in Section 2b of NSF 24-1](https://new.nsf.gov/policies/pappg/24-1/ch-2-proposal-preparation#ch2D2b). List the title of your proposal as the first line of your proposal summary (which is not typical of NSF proposals, but will be useful for this workshop). As described in NSF 24-1, the rest of your project summary must contain three sections: "an overview, a statement on the intellectual merit of the proposed activity, and a statement on the broader impacts of the proposed activity." In other words, have distinct sections labeled "Overview," "Intellectual Merit," and "Broader Impacts." The last line of the Project Summary must consist of the word "Keywords" followed by a colon and between 1-3 keywords, separated by semi-colons, as instructed in [NSF 24-504 (SaTC)](https://new.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc/nsf24-504/solicitation).
 
-4. Include a section entitled "Proposed Research" where you outline proposed research;
+3. The remaining 2-4 pages should be a very short version of a potential "project description," as [described in Section 2d of NSF 24-1](https://new.nsf.gov/policies/pappg/24-1/ch-2-proposal-preparation#ch2D2d). For the purposes of this workshop, we expect that most of these short project descriptions will provide some motivation and framing within prior work and start describing the specific activities and technical content of your proposed work, as well as its broader impact. Focus on communicating your key ideas, rather than filling in boilerplate text. You are welcome to include figures, citations, and other aspects of a typical proposal if needed.
 
-5. Include a section entitle "Relevance to SaTC" describing how this project fits within the SaTC program.
+4. To emphasize, your project description must outline your proposed research and proposed activities. While our 2-4 page limit means that you will be far less detailed than normal, we want you to be specific in what you are proposing so that you can get feedback on the scope of your proposed project.
 
-We recommend you begin with a short 2-3 paragraph summary, followed by details of the proposed research, and conclude wit the intellectual merit, broader impact, and relevance to SaTC. You may also include any references you feel are appropriate for understanding your project.
+5. In addition, your project description must include a section entitle "Relevance to SaTC" describing how this project fits within the SaTC program, as instructed in [NSF 24-504 (SaTC)](https://new.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc/nsf24-504/solicitation).
 
-**Finally, keep in mind that you should write for a somewhat general audience as your proposal will be read by other attendees and mentors at the event.** The goal is to receive valuable feedback on framing and structuring a full proposal, and to do that, you should target a reader that has general computer science knowledge, but may not be exactly an expert in your field.
+**Finally, keep in mind that you should write for a somewhat general audience as your proposal will be read by other attendees and mentors at the event.** The goal is to receive valuable feedback on framing and structuring a full proposal, and to do that, you should target a reader that has general knowledge in computer science and computer security/privacy, but may not be exactly an expert in your sub-field.
 
 ## Confidentiality of Proposed Research
 
-By participating in this workshop, we will hold all attendees to a **moral code of confidentiality** similar to what the NSF expects of panelist. That is, we will ask that all attendees not share any project details with others, and that once feedback is delivered, remove any original documents.
+By participating in this workshop, we will hold all attendees to a **moral code of confidentiality** similar to what the NSF expects of panelists. That is, we ask that all attendees not share any project details with others. Specifically, you may not disclose to anyone else any non-public information you learn about other attendees' research or proposal ideas. Similarly, you may not use what you learn about other attendees' research for your personal gain, whereas we of course expect you to use what you learn at the workshop about strategies for writing competitive SaTC proposals. Furthermore, at the conclusion of the workshop, we ask that you delete all copies of other aspiring PIs' proposals, though you are welcome to retain materials shared with you from experienced PIs (mentors) about their successfully funded proposals.
 
 ## Reviewing Proposals
 
-Just like an NSF panel, you will be asked to provide short reviews for up to five others proposals. Your review should include:
+Just like an NSF panel, you will be asked to provide short reviews for other proposals during the workshop itself. Additional directions and assignmnents will be presented on the first day of the workshop. When you perform these reviews, each review should include:
 
 1. A summary of the project;
 
@@ -41,11 +41,11 @@ Just like an NSF panel, you will be asked to provide short reviews for up to fiv
 
 3. A list of areas to improve;
 
-4. A summary judgement of the project, for why it should or should not receive funding;
+4. A summary judgement of the project (why it should or should not receive funding);
 
-5. A review of Poor, Fair, Good, Very Good, or Excellent.
+5. A score of Poor, Fair, Good, Very Good, or Excellent.
 
-Each review will be roughly one page and will be assigned on May 4th to be completed that evening. Your reviews will be anonymous and distributed to others after the workshop for feedback.
+Each review will be roughly one page and will be assigned on the first day of the workshop. Your reviews will be used during the mock panels.
 
 ## Panels
 
