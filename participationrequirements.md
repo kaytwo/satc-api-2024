@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Participation
+title: Participation Requirements
 ---
 
 # Participation Requirements for Aspiring PIs
