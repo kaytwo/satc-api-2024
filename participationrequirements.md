@@ -23,7 +23,7 @@ Your PS must:
 
 4. To emphasize, your project description must outline your proposed research and proposed activities. While our 2-4 page limit means that you will be far less detailed than normal, we want you to be specific in what you are proposing so that you can get feedback on the scope of your proposed project.
 
-5. In addition, your project description must include a section entitle "Relevance to SaTC" describing how this project fits within the SaTC program, as instructed in [NSF 24-504 (SaTC)](https://new.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc/nsf24-504/solicitation).
+5. In addition, your project description must include a section titled "Relevance to SaTC" describing how this project fits within the SaTC program, as instructed in [NSF 24-504 (SaTC)](https://new.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc/nsf24-504/solicitation).
 
 **Finally, keep in mind that you should write for a somewhat general audience as your proposal will be read by other attendees and mentors at the event.** The goal is to receive valuable feedback on framing and structuring a full proposal, and to do that, you should target a reader that has general knowledge in computer science and computer security/privacy, but may not be exactly an expert in your sub-field.
 
