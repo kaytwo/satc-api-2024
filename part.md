@@ -5,13 +5,13 @@ title: Participation
 
 # Participation Requirements for Aspiring PIs
 
-The goal of this workshop is to provide guidance and feedback for aspiring PIs seeking NSF SaTC funding. To meet these goals, we ask that participants in the workshop engage in a proposal feedback activity that will include both (i) producing a short-form summary of a proposal they hope to submit to SaTC and (ii) providing feedback to other aspiring PIs' proposal summaries as part of a mock panel process.
+The goal of this workshop is to provide guidance and feedback for aspiring PIs seeking NSF SaTC funding. To meet these goals, we ask that participants in the workshop engage in a proposal feedback activity that will include both (i) producing a short-form version of a proposal they hope to submit to SaTC and (ii) providing feedback to other aspiring PIs' proposal summaries as part of a mock panel process.
 
 ## Proposal Sketches
 
 Participants who have been selected for the workshop must submit a **Proposal Sketch (PS)** of a project proposal by **Tuesday, May 7th, 2024 (AoE)**. This is intended to be a shorter, more preliminary version of the idea for a future SaTC proposal. Instructions for uploading the PS to UChicago Box have been provided by email to accepted participants on April 26th, 2024.
 
-The PS must contain the following information and is expected to be **3-5 pages long** (not including references). Please ensure your proposal meets the relevant parts of [NSF 24-1 PAPPG](https://new.nsf.gov/policies/pappg/24-1), which are the standards outlined by NSF for proposal submissions.
+The PS must contain the following information and must be **3-5 pages long** (not including references). Please ensure your proposal meets the relevant parts of [NSF 24-1 PAPPG](https://new.nsf.gov/policies/pappg/24-1), which are the standards outlined by NSF for proposal submissions.
 
 Your PS must:
 
