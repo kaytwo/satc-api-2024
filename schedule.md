@@ -14,6 +14,7 @@ The event will take place on the full day of Thursday, May 9th and conclude at 1
 | 8:45  | Arrival, breakfast, and registration                                                                                         |
 | 9:15  | Opening remarks: Co-organizers and NSF staff welcome attendees and summarize the funding process                             |
 | 10:00 | Introductions and icebreakers                                                                                                |
+| 10:30 | Overview of NSF CISE/CNS by Behrooz Shirazi (Deputy Division Director)                                                       |
 | 10:45 | Break; coffee and light snacks will be provided                                                                              |
 | 11:00 | Interactive activity on developing a research project with a focus on drafting project summaries                             |
 | 12:15 | Lunch and rotating one-on-one meetings with mentors, including experienced PIs, NSF staff, and workshop organizers           |
