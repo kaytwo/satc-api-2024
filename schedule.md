@@ -9,33 +9,33 @@ All events will take place on the second floor of the the University of Chicago'
 
 The event will take place on the full day of Thursday, May 9th and conclude at 1pm on Friday, May 10th. The tentative schedule is below.
 
-|       | Day 1                                                                                                                        |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 8:45  | Arrival, breakfast, and registration                                                                                         |
-| 9:15  | Opening remarks: Co-organizers and NSF staff welcome attendees and summarize the funding process                             |
-| 10:00 | Introductions and icebreakers                                                                                                |
-| 10:30 | Overview of NSF CISE/CNS by Behrooz Shirazi (Deputy Division Director)                                                       |
-| 10:45 | Break; coffee and light snacks will be provided                                                                              |
-| 11:00 | Interactive activity on developing a research project with a focus on drafting project summaries                             |
-| 12:15 | Lunch and rotating one-on-one meetings with mentors, including experienced PIs, NSF staff, and workshop organizers           |
-| 2:00  | Group meetings in which aspiring PIs meet with experienced PIs and NSF staff about general strategies (Session 1)            |
-| 2:30  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF staff for targeted feedback                      |
-| 3:30  | Break; coffee and light snacks will be provided                                                                              |
-| 4:00  | Panel on the review process presented by NSF program officers                                                                |
-| 5:00  | Group meetings in which aspiring PIs meet with experienced PIs and NSF staff about general strategies (Session 2)            |
-| 5:30  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF staff for targeted feedback                      |
-| 6:00  | Closing remarks and one-on-one outbriefs                                                                                     |
-| 7:00  | Dinner and professional networking (in River North, near the hotel)                                                          |
+|       | Day 1                                                                                                                                                                                     |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 8:45  | Arrival, breakfast, and registration (JCL 390 and 3rd Floor Commons)                                                                                                                      |
+| 9:15  | Opening remarks: Co-organizers and NSF staff welcome attendees and summarize the funding process (JCL 390)                                                                                |
+| 10:00 | Attendee introductions and icebreakers (JCL 390)                                                                                                                                          |
+| 10:30 | Overview of NSF CISE/CNS by Behrooz Shirazi, NSF Deputy Division Director (JCL 390)                                                                                                       |
+| 10:45 | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                                                                                   |
+| 11:00 | Interactive activity on developing a research project with a focus on drafting project summaries (JCL 390)                                                                                |
+| 12:15 | Lunch ([Snail Thai](https://snailthai.com/)) and rotating one-on-one meetings with mentors, including experienced PIs, NSF staff, and workshop organizers (JCL 390 and 3rd Floor Commons) |
+| 2:00  | Group meetings in which aspiring PIs meet with experienced PIs and NSF staff (JCL 236x, JCL 257, JCL 354, JCL 356x, JCL 390, 2B, 2D, 3A, 3B)                                              |
+| 2:30  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF staff for targeted feedback (JCL 236x, JCL 257, JCL 354, JCL 356x, JCL 390, 2B, 2D, 3A, 3B)                   |
+| 3:30  | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                                                                                   |
+| 4:00  | Panel on the review process presented by NSF program officers Anna Squicciarini, ChunSheng (Sam) Xin, Dan Cosley, and Karen Karavanic (JCL 390)                                           |
+| 5:00  | Group meetings in which aspiring PIs meet with experienced PIs and NSF staff (JCL 257, JCL 346, JCL 354, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D)                                                  |
+| 5:30  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF staff for targeted feedback  (JCL 257, JCL 346, JCL 354, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D)                      |
+| 6:00  | Closing remarks and one-on-one outbriefs (JCL 390), group shuttles leaving for dinner                                                                                                     |
+| 7:00  | Dinner and professional networking ([Beatrix River North](https://www.beatrixrestaurants.com/beatrix/river-north/))                                                                       |
 
-|         | Day 2                                                                                                            |
-| ------- | ---------------------------------------------------------------------------------------------------------------- |
-| 8:00    | Breakfast                                                                                                        |
-| 8:30    | Panel on proposal-design strategies: Experienced PIs discuss key techniques for assembling competitive proposals |
-| 9:00    | Mock panel (Session 1): Panels discuss aligned proposals                                                         |
-| 10:30   | Break; coffee and light snacks will be provided                                                                  |
-| 11:00   | Mock panel (Session 2): Panels make (simulated) proposal recommendations and explain their reasoning             |
-| 12:30   | Lunch and wrap-up discussions; boxed lunches will be provided                                                    |
-| ------- | --------------------------------------------------------------------------------------------------------------   |
+|         | Day 2                                                                                                                                |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 8:00    | Breakfast (JCL 3rd Floor Commons)                                                                                                    |
+| 8:30    | Panel on proposal-design strategies: Experienced PIs discuss key techniques for assembling competitive proposals (JCL 390)           |
+| 9:00    | Mock panel (Session 1): Panels discuss aligned proposals (JCL 223x, JCL 236, JCL 257, JCL 298, JCL 346, JCL 354x, JCL 356x, JCL 390) |
+| 10:30   | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                              |
+| 11:00   | Mock panel (Session 2): Panels make (simulated) proposal recommendations and explain their reasoning (same rooms as Session 1)       |
+| 12:00   | Lunch (Panera boxed sandwiches/salads) and wrap-up discussions; boxed lunches will be provided (JCL 3rd Floor Commons)               |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 
 <!--
 
