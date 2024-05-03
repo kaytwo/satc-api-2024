@@ -11,7 +11,7 @@ The event will take place on the full day of Thursday, May 9th and conclude at 1
 
 |       | Day 1                                                                                                                                                                                     |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 8:45  | Arrival, breakfast, and registration (JCL 390 and 3rd Floor Commons)                                                                                                                      |
+| 8:45  | Arrival, light breakfast (pastries and coffee), and registration (JCL 390 and 3rd Floor Commons)                                                                                          |
 | 9:15  | Opening remarks: Co-organizers and NSF staff welcome attendees and summarize the funding process (JCL 390)                                                                                |
 | 10:00 | Attendee introductions and icebreakers (JCL 390)                                                                                                                                          |
 | 10:30 | Overview of NSF CISE/CNS by Behrooz Shirazi, NSF Deputy Division Director (JCL 390)                                                                                                       |
@@ -29,7 +29,7 @@ The event will take place on the full day of Thursday, May 9th and conclude at 1
 
 |         | Day 2                                                                                                                                |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 8:00    | Breakfast (JCL 3rd Floor Commons)                                                                                                    |
+| 8:00    | Light breakfast (pastries and coffee) and arrival (JCL 3rd Floor Commons)                                                            |
 | 8:30    | Panel on proposal-design strategies: Experienced PIs discuss key techniques for assembling competitive proposals (JCL 390)           |
 | 9:00    | Mock panel (Session 1): Panels discuss aligned proposals (JCL 223x, JCL 236, JCL 257, JCL 298, JCL 346, JCL 354x, JCL 356x, JCL 390) |
 | 10:30   | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                              |
