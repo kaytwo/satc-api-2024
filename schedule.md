@@ -3,11 +3,9 @@ layout: default
 title: Schedule
 ---
 
-# Tentative Schedule
+# Schedule
 
 All events will take place on the second (2xx rooms) and third (3xx rooms) floors of the the University of Chicago's John Crerar Library (5730 S Ellis Ave., Chicago, IL 60637), its home of the Department of Computer Science.
-
-The event will take place on the full day of Thursday, May 9th and conclude at 1pm on Friday, May 10th. The tentative schedule is below.
 
 |       | Day 1                                                                                                                                                                                     |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
