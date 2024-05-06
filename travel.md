@@ -3,11 +3,11 @@ layout: default
 title: Travel
 ---
 
-## Travel Arrangements
+## Travel
 
 The 2024 SaTC Aspiring PI Workshop will take place at the John Crerar Library (JCL), home of the University of Chicago's Department of Computer Science. The JCL building is located at 5730 S Ellis Ave, Chicago, IL 60637. The University of Chicago is situated in the Hyde Park neighborhood, convenient to both Midway and O'Hare airports, and is also easily reachable by CTA Bus and Metra Commuter Rail. University shuttle buses and CTA routes #171 and #172 stop in front of the bookstore or Levi Hall on the other side of Ellis Ave.
 
-We recommend parking in University garages at 55th Street & Ellis or 57th Street & Cottage Grove. A map of all UChicago parking options is available [here](https://d3qi0qp55mx5f5.cloudfront.net/safety-security/uploads/files/2019_Parking_map_11.27.19.pdf?mtime=1575909818).
+Everyone staying in the hotel will be traveling to and from campus on shuttles we have arranged. We will email you 48 hours before the event with the exact pickup times. If you are local to Chicagoland, we highly recommend coming to campus by CTA. If you are coming by car, we recommend parking in the Campus North parking garage (5505 S Ellis Ave.). A map of all UChicago parking options is available [here](https://d3qi0qp55mx5f5.cloudfront.net/safety-security/uploads/files/2019_Parking_map_11.27.19.pdf?mtime=1575909818).
 
 ## Hotel Accommodations
 
