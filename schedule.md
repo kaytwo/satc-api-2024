@@ -29,7 +29,8 @@ All events will take place on the second (2xx rooms) and third (3xx rooms) floor
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 8:00    | Light breakfast (pastries and coffee) and arrival (JCL 3rd Floor Commons)                                                            |
 | 8:30    | Panel on proposal-design strategies: Experienced PIs discuss key techniques for assembling competitive proposals (JCL 390)           |
-| 9:00    | Mock panel (Session 1): Panels discuss aligned proposals (JCL 223x, JCL 236, JCL 257, JCL 298, JCL 346, JCL 354x, JCL 356x, JCL 390) |
+| 9:00    | Quick hello from Hank Hoffmann, Liew Family Chair of Computer Science, UChicago                                                      |
+| 9:05    | Mock panel (Session 1): Panels discuss aligned proposals (JCL 223x, JCL 236, JCL 257, JCL 298, JCL 346, JCL 354x, JCL 356x, JCL 390) |
 | 10:30   | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                              |
 | 11:00   | Mock panel (Session 2): Panels make (simulated) proposal recommendations and explain their reasoning (same rooms as Session 1)       |
 | 12:00   | Lunch (Panera boxed sandwiches/salads) and wrap-up discussions; boxed lunches will be provided (JCL 3rd Floor Commons)               |
