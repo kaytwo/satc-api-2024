@@ -68,6 +68,7 @@ header_pages:
   - travel.md
   - schedule.md
   - participationrequirements.md
+  - mentors.md
 
 # Build settings
 theme: minima
