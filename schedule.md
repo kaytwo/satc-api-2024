@@ -25,7 +25,7 @@ All events will take place on the second (2xx rooms) and third (3xx rooms) floor
 | 5:00  | Group meetings in which aspiring PIs meet with experienced PIs and NSF PDs (JCL 223, JCL 257, JCL 346, JCL 354, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D)                                           |
 | 5:30  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF PDs for targeted feedback  (JCL 223, JCL 257, JCL 346, JCL 354, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D)               |
 | 6:00  | Closing remarks and one-on-one outbriefs (JCL 390), group shuttles leaving for dinner                                                                                                     |
-| 7:00  | Dinner and professional networking ([Beatrix River North](https://www.beatrixrestaurants.com/beatrix/river-north/))                                                                       |
+| 7:00  | Dinner and professional networking (held at [Beatrix River North](https://www.beatrixrestaurants.com/beatrix/river-north/))                                                                |
 
 |         | Day 2                                                                                                                                |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
