@@ -17,7 +17,7 @@ All events will take place on the second (2xx rooms) and third (3xx rooms) floor
 | 10:30 | Overview of NSF CISE/CNS by Behrooz Shirazi, NSF Deputy Division Director (JCL 390)                                                                                                       |
 | 10:45 | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                                                                                   |
 | 11:00 | Interactive activity on developing a research project with a focus on drafting project summaries led by Christina Garman (JCL 390)                                                        |
-| 12:15 | Lunch ([Snail Thai](https://snailthai.com/)) and ad-hoc one-on-one meetings with mentors, including experienced PIs, NSF PDs, and workshop organizers (JCL 390 and 3rd Floor Commons)     |
+| 12:15 | Lunch (catered by [Snail Thai](https://snailthai.com/)) and ad-hoc one-on-one meetings with mentors, including experienced PIs, NSF PDs, and workshop organizers (JCL 390 and 3rd Floor Commons) |
 | 2:00  | Group meetings in which aspiring PIs meet with experienced PIs and NSF PDs (JCL 236, JCL 257, JCL 354, JCL 356x, JCL 390, 2B, 2D, 3A, 3B)                                                 |
 | 2:30  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF PDs for targeted feedback (JCL 236x, JCL 257, JCL 354, JCL 356x, JCL 390, 2B, 2D, 3A, 3B)                     |
 | 3:30  | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                                                                                   |
@@ -35,7 +35,7 @@ All events will take place on the second (2xx rooms) and third (3xx rooms) floor
 | 9:05    | Mock panel (Session 1): Panels discuss aligned proposals (JCL 011x, JCL 236, JCL 257, JCL 298, JCL 346, JCL 354x, JCL 356, JCL 390)  |
 | 10:30   | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                              |
 | 11:00   | Mock panel (Session 2): Panels make (simulated) proposal recommendations and explain their reasoning (same rooms as Session 1)       |
-| 12:00   | Lunch (Panera boxed sandwiches/salads) and wrap-up discussions; boxed lunches will be provided (JCL 3rd Floor Commons)               |
+| 12:00   | Lunch (boxed sandwiches/salads catered by Panera) and wrap-up discussions (JCL 3rd Floor Commons)               |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 
 <!--
