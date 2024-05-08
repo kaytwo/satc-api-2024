@@ -7,13 +7,13 @@ title: Schedule
 
 All events will take place on the second (2xx rooms) and third (3xx rooms) floors of the the University of Chicago's John Crerar Library (5730 S Ellis Ave., Chicago, IL 60637), its home of the Department of Computer Science.
 
-|       | Day 1                                                                                                                                                                                     |
+| Day 1 |                                                                                                                                                                                           |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 8:45  | Arrival, light breakfast (pastries and coffee), and registration (JCL 390 and 3rd Floor Commons)                                                                                          |
 | 9:15  | Opening remarks, introductions, and workshop overview led by the workshop co-organizers (JCL 390)                                                                                         |
 | 9:20  | "What is SaTC" and introduction of NSF attendees led by Karen Karavancic, NSF (JCL 390)                                                                                                   |
 | 9:30  | The questions we ask ourselves when applying for funding, led by Blase Ur (JCL 390)                                                                                                       |
-| 10:00 | Attendee introductions and icebreakers led by Chris Kanich (JCL 390)                                                                                                                      |
+| 10:00 | Attendee introductions and icebreakers led by Blase Ur and Christina Garman (JCL 390)                                                                                                     |
 | 10:30 | Overview of NSF CISE/CNS by Behrooz Shirazi, NSF Deputy Division Director (JCL 390)                                                                                                       |
 | 10:45 | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                                                                                   |
 | 11:00 | Interactive activity on developing a research project with a focus on drafting project summaries led by Christina Garman (JCL 390)                                                        |
@@ -21,13 +21,13 @@ All events will take place on the second (2xx rooms) and third (3xx rooms) floor
 | 2:00  | Group meetings in which aspiring PIs meet with experienced PIs and NSF PDs (JCL 236, JCL 257, JCL 354, JCL 356x, JCL 390, 2B, 2D, 3A, 3B)                                                 |
 | 2:30  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF PDs for targeted feedback (JCL 236x, JCL 257, JCL 354, JCL 356x, JCL 390, 2B, 2D, 3A, 3B)                     |
 | 3:30  | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                                                                                   |
-| 4:00  | Panel on the review process presented by NSF program directorsAnna Squicciarini, ChunSheng (Sam) Xin, Dan Cosley, and Karen Karavanic (JCL 390)                                           |
+| 4:00  | Panel on the review process presented by NSF program directors Anna Squicciarini, ChunSheng (Sam) Xin, Dan Cosley, and Karen Karavanic (JCL 390)                                          |
 | 5:00  | Group meetings in which aspiring PIs meet with experienced PIs and NSF PDs (JCL 223, JCL 257, JCL 346, JCL 354, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D)                                           |
 | 5:30  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF PDs for targeted feedback  (JCL 223, JCL 257, JCL 346, JCL 354, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D)               |
 | 6:00  | Closing remarks and one-on-one outbriefs (JCL 390), group shuttles leaving for dinner                                                                                                     |
-| 7:00  | Dinner and professional networking (held at [Beatrix River North](https://www.beatrixrestaurants.com/beatrix/river-north/))                                                                |
+| 7:00  | Dinner and professional networking (held at [Beatrix River North](https://www.beatrixrestaurants.com/beatrix/river-north/))                                                               |
 
-|         | Day 2                                                                                                                                |
+| Day 2   |                                                                                                                                      |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 8:00    | Light breakfast (pastries and coffee) and arrival (JCL 3rd Floor Commons)                                                            |
 | 8:30    | Panel on proposal-design strategies: Experienced PIs discuss key techniques for assembling competitive proposals (JCL 390)           |
@@ -35,7 +35,7 @@ All events will take place on the second (2xx rooms) and third (3xx rooms) floor
 | 9:05    | Mock panel (Session 1): Panels discuss aligned proposals (JCL 011x, JCL 236, JCL 257, JCL 298, JCL 346, JCL 354x, JCL 356, JCL 390)  |
 | 10:30   | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                              |
 | 11:00   | Mock panel (Session 2): Panels make (simulated) proposal recommendations and explain their reasoning (same rooms as Session 1)       |
-| 12:00   | Lunch (boxed sandwiches/salads catered by Panera) and wrap-up discussions (JCL 3rd Floor Commons)               |
+| 12:00   | Lunch (boxed sandwiches/salads catered by Panera) and wrap-up discussions (JCL 3rd Floor Commons)                                    |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 
 <!--
