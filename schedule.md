@@ -12,7 +12,7 @@ All events will take place on the second (2xx rooms) and third (3xx rooms) floor
 | 8:45  | Arrival, light breakfast (pastries and coffee), and registration (JCL 390 and 3rd Floor Commons)                                                                                          |
 | 9:15  | Opening remarks, introductions, and workshop overview led by the workshop co-organizers (JCL 390)                                                                                         |
 | 9:20  | "What is SaTC" and introduction of NSF attendees led by Karen Karavancic, NSF (JCL 390)                                                                                                   |
-| 9:30  | Questions we ask ourselves when applying for funding, led by Blase Ur (JCL 390)                                                                                                           |
+| 9:30  | The questions we ask ourselves when applying for funding, led by Blase Ur (JCL 390)                                                                                                       |
 | 10:00 | Attendee introductions and icebreakers led by Chris Kanich (JCL 390)                                                                                                                      |
 | 10:30 | Overview of NSF CISE/CNS by Behrooz Shirazi, NSF Deputy Division Director (JCL 390)                                                                                                       |
 | 10:45 | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                                                                                   |
