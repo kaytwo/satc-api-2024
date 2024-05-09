@@ -7,19 +7,19 @@ title: Schedule
 
 All events will take place on the second (2xx rooms) and third (3xx rooms) floors of the the University of Chicago's John Crerar Library (5730 S Ellis Ave., Chicago, IL 60637), its home of the Department of Computer Science.
 
-| Day 1 |                                                                                                                                                                                           |
+|       | Day 1                                                                                                                                                                        |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 8:45  | Arrival, light breakfast (pastries and coffee), and registration (JCL 390 and 3rd Floor Commons)                                                                                          |
-| 9:15  | Opening remarks, introductions, and workshop overview led by the workshop co-organizers (JCL 390)                                                                                         |
+| 9:15  | Opening remarks, introductions, and workshop overview led by the workshop co-organizers (JCL 390) ([slides](blase-overview.pdf))                                                                                         |
 | 9:20  | "What is SaTC" and introduction of NSF attendees led by Karen Karavancic, NSF (JCL 390)                                                                                                   |
-| 9:30  | The questions we ask ourselves when applying for funding, led by Blase Ur (JCL 390)                                                                                                       |
+| 9:30  | The questions we ask ourselves when applying for funding, led by Blase Ur (JCL 390) ([slides](blase-questions.pdf))                                                                                                       |
 | 10:00 | Attendee introductions and icebreakers led by Blase Ur and Christina Garman (JCL 390)                                                                                                     |
 | 10:30 | Overview of NSF CISE/CNS by Behrooz Shirazi, NSF Deputy Division Director (JCL 390)                                                                                                       |
 | 10:45 | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                                                                                   |
 | 11:00 | Interactive activity on developing a research project with a focus on drafting project summaries led by Christina Garman (JCL 390)                                                        |
 | 12:15 | Lunch (catered by [Snail Thai](https://snailthai.com/)) and ad-hoc one-on-one meetings with mentors, including experienced PIs, NSF PDs, and workshop organizers (JCL 390 and 3rd Floor Commons) |
 | 2:00  | Group meetings in which aspiring PIs meet with experienced PIs and NSF PDs (JCL 236, JCL 257, JCL 354, JCL 356x, JCL 390, 2B, 2D, 3A, 3B)                                                 |
-| 2:30  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF PDs for targeted feedback (JCL 236x, JCL 257, JCL 354, JCL 356x, JCL 390, 2B, 2D, 3A, 3B)                     |
+| 2:30  | One-on-one meetings in which aspiring PIs meet with experienced PIs and NSF PDs for targeted feedback (JCL 236, JCL 257, JCL 354, JCL 356x, JCL 390, 2B, 2D, 3A, 3B)                     |
 | 3:30  | Break; coffee and light snacks will be provided (JCL 3rd Floor Commons)                                                                                                                   |
 | 4:00  | Panel on the review process presented by NSF program directors Anna Squicciarini, ChunSheng (Sam) Xin, Dan Cosley, and Karen Karavanic (JCL 390)                                          |
 | 5:00  | Group meetings in which aspiring PIs meet with experienced PIs and NSF PDs (JCL 223, JCL 257, JCL 346, JCL 354, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D)                                           |
