@@ -64,10 +64,9 @@ minima:
 # this and add the path to the pages in order as they should show up
 
 header_pages:
-  - cfp.md
+  - assignments.md
   - travel.md
   - schedule.md
-  - participationrequirements.md
   - mentors.md
 
 # Build settings
