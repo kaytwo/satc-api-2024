@@ -65,10 +65,8 @@ minima:
 
 header_pages:
   - assignments.md
-  - cfp.md
   - travel.md
   - schedule.md
-  - participationrequirements.md
   - mentors.md
 
 # Build settings
