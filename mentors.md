@@ -16,7 +16,7 @@ Aspiring PIs will benefit from the mentorship of the following 21 experienced PI
   * [David Cash](https://people.cs.uchicago.edu/~davidcash/) (University of Chicago)
   * [Dongyan Xu](https://www.cs.purdue.edu/homes/dxu/) (Purdue University)
   * [Eric Chan-Tin](https://chantin.cs.luc.edu/~chantin/) (Loyola University Chicago)
-  * [Heather Zheng](https://people.cs.uchicago.edu/~htzheng/) (UChicago)
+  * [Heather Zheng](https://people.cs.uchicago.edu/~htzheng/) (University of Chicago)
   * [Jason Polakis](https://www.cs.uic.edu/~polakis/aboutme/) (University of Illinois Chicago)
   * [Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/) (Northwestern University)
   * [Jeremiah Blocki](https://www.cs.purdue.edu/homes/jblocki/) (Purdue)
