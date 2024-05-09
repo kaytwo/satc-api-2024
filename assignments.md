@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: 2024 NSF SaTC Aspiring PI Workshop one-on-one assignments
+title: 1 on 1 Assignments
 ---
 
 Please see below for your one on one discussion assignments. There are three sessions: 2:30pm, 3:00pm, and 5:30 pm. Experienced PIs (EPIs) stay in the same room between 2:30 and 3. Aspiring PIs (APIs) switch rooms every 30 minutes.  Within each room, there are enough experienced PIs such that every aspiring PI in that time slot can have one 5 minute conversation with an experienced PI / program officer. For Aspiring PIs, when you are not currently speaking with an EPI/PO, we encourage you to network with / pitch your project ideas to other aspiring PIs in yoru session.
