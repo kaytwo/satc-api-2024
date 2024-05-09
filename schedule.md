@@ -27,7 +27,7 @@ All events will take place on the second (2xx rooms) and third (3xx rooms) floor
 | 6:00  | Closing remarks and one-on-one outbriefs (JCL 390), group shuttles leaving for dinner                                                                                                     |
 | 7:00  | Dinner and professional networking (held at [Beatrix River North](https://www.beatrixrestaurants.com/beatrix/river-north/))                                                               |
 
-| Day 2   |                                                                                                                                      |
+|         | Day 2                                                                                                                               |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 8:00    | Light breakfast (pastries and coffee) and arrival (JCL 3rd Floor Commons)                                                            |
 | 8:30    | Panel on proposal-design strategies: Experienced PIs discuss key techniques for assembling competitive proposals (JCL 390)           |
