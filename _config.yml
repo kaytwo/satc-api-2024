@@ -65,9 +65,8 @@ minima:
 
 header_pages:
   - panels.md
-  - assignments.md
-  - travel.md
   - schedule.md
+  - travel.md
   - mentors.md
 
 # Build settings
